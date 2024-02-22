@@ -1,2 +1,3 @@
-const msg = "hello world";
-console.log("HI=>",msg);
+const msg = "BACKEND APP";
+console.log(msg);
+
