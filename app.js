@@ -12,7 +12,7 @@ const db=
 
       db.connect(function(err) {
         if (err) throw err;
-        console.log("Connected!");
+        console.log("Connected! Please check DB to add new schema");
       });
 const app = express();
 
